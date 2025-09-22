@@ -1,0 +1,17 @@
+This is a sample e-mail that the user will receive.
+It contains 2 items - the link to browserstack execution, and the live logs of what the app scanner is doing.
+
+The execution URL takes us to browserstack, where we can view the app scanner code getting executed.
+
+
+As you can see, each interaction step performed by the app scanner gets documented here.
+
+
+The LOGS link takes us to the logs of which step is currently getting executed from the app scanner's perspective.
+
+
+This gets updated live and is crucial for analysing issues.
+
+Similar to  the native app, we will receive an email with the browserstack URL and logs for the web platform.
+
+The scanning for web executes similar to native.

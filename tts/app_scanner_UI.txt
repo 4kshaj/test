@@ -1,0 +1,23 @@
+App Scanner is a tool to automatically scan the entire native and web application.
+
+
+It's functionalitiies include finding out all broken images, broken links and the generation a sitemap of all the pages that were visited.
+
+
+The user can choose to test either native, or web platform.
+For native, the user can choose to test Android, iOS, or both. Any release among the past 6 releases can be chosen.
+There is also a choice to select a particular module to test, such as accounts, or deposits.
+A username to test for is also required.
+
+
+
+
+For web, the URL for the appropriate environment, along with the username to test is sufficient.
+
+
+
+
+Since the scanning process takes some time, it is necessary to provide an e-mail where the reports can be sent back.
+
+
+Once the user clicks on the Submit button, they will shortly receive the first email.

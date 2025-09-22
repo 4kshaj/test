@@ -1,0 +1,7 @@
+After the scanning is completed, the user is provided with links to view the sitemap and HTML report.
+The sitemap is an interactive visualisation.
+Each screen is represented by nodes, and each action is represented by arrows.
+You can hover on nodes to view to display the screen image, and click on them to expand or collapse the screens that are accessible from it.
+
+The report shows if there are any broken images in any screens.
+It also shows which CTAs or links lead to error screens, and what exactly the error was.
